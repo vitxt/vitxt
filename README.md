@@ -6,10 +6,10 @@ Welcome to my GitHub! I'm a Comp Sci student passionate about software developme
 
 ##  About Me
 
-- 🎓 I study **Computer Science** at Universidade Estadual de Maringá (UEM).
-- 🔬 I'm currently working on a **Machine Learning scientific project**.
-- 🌱 My primary interest lies in **Data Science** and extracting insights from data.
-- 💻 I also enjoy building robust applications from the front-end to the back-end.
+-  I study **Computer Science** at Universidade Estadual de Maringá (UEM).
+-  I'm currently working on a **Machine Learning scientific project**.
+-  My primary interest lies in **Data Science** and extracting insights from data.
+-  I also enjoy building robust applications from the front-end to the back-end.
 
 ##  My Tech Stack
 
